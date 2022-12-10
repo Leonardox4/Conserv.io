@@ -1,0 +1,6 @@
+fan
+tubelight
+laptop
+mobile
+projector
+cctv

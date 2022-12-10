@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>94.jpg</filename>
+	<path>C:\Coding\Java Programs\Projects\Energy Conservation App\object_detection\Dataset\images\94.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>projector</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>695</xmin>
+			<ymin>895</ymin>
+			<xmax>869</xmax>
+			<ymax>1249</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>1082</ymin>
+			<xmax>475</xmax>
+			<ymax>1307</ymax>
+		</bndbox>
+	</object>
+</annotation>
